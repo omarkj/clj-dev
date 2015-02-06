@@ -1,0 +1,8 @@
+name             'clojure'
+maintainer       'Omar Yasin'
+maintainer_email 'omarkj@gmail.com'
+license          'MIT'
+description      'Setup clojure and lein'
+long_description 'Setup clojure and lein'
+version          '1.0.0'
+depends          'java'
